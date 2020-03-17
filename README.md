@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple map demonstration in react on how to use superclusters.
+Demo can be seen here
 
 ## Available Scripts
 
