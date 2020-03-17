@@ -1,5 +1,10 @@
-A simple map demonstration in react on how to use superclusters.
-Demo can be seen here
+A simple map demonstration in ReactJS on how to use superclusters.
+
+Demo can be seen [here](https://police-supercluster.herokuapp.com/)
+
+![Demo gif](police.gif)
+
+
 
 ## Available Scripts
 
